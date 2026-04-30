@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>  on </title>
+    <link>/copernicus/</link>
+    <description>Recent content in   on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>laura.del.rio.martin@gmail.com (Laura del Río Martín)</managingEditor>
+    <webMaster>laura.del.rio.martin@gmail.com (Laura del Río Martín)</webMaster>
+    <atom:link href="/copernicus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Background</title>
+      <link>/copernicus/state-of-the-art/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>laura.del.rio.martin@gmail.com (Laura del Río Martín)</author>
+      <guid>/copernicus/state-of-the-art/</guid>
+      <description>&lt;p&gt;Compressible multiphase flows appear in many applications, from aerospace and environmental engineering to biomechanics. Over the last decades, several mathematical models have been proposed to describe the interaction of different phases. Among the most widely used are the Baer–Nunziato model &lt;a href=&#34;#ref1&#34;&gt;[1]&lt;/a&gt;, the Kapila model &lt;a href=&#34;#ref2&#34;&gt;[2]&lt;/a&gt;, and more recent thermodynamically compatible formulations such as those proposed by Romenski et al. &lt;a href=&#34;#ref3&#34;&gt;[3]&lt;/a&gt;. These models have significantly advanced the simulation of compressible mixtures.&lt;/p&gt;&#xA;&lt;p&gt;Despite these advances, important challenges remain. Most existing models are designed for specific situations and do not provide a unified framework able to account simultaneously for surface tension, phase transition, and elastic effects. In particular, including capillarity often leads to higher-order or dispersive terms, which complicate both the mathematical analysis and the numerical approximation &lt;a href=&#34;#ref4&#34;&gt;[4]&lt;/a&gt;, &lt;a href=&#34;#ref5&#34;&gt;[5]&lt;/a&gt;. In addition, coupling multiphase flows with deformable elastic materials is still largely an open problem &lt;a href=&#34;#ref6&#34;&gt;[6]&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Objectives</title>
+      <link>/copernicus/objectives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>laura.del.rio.martin@gmail.com (Laura del Río Martín)</author>
+      <guid>/copernicus/objectives/</guid>
+      <description>&lt;h3 id=&#34;objectives&#34;&gt;&lt;strong&gt;Objectives&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;1: Formulate an HTC multiphase model with capillarity&lt;/p&gt;&#xA;&lt;p&gt;2: Development of high-order SP schemes for multiphase models with capillarity&lt;/p&gt;&#xA;&lt;p&gt;3: Extension of the HTC multiphase model with capillarity to elastic media&lt;/p&gt;&#xA;&lt;p&gt;4: Development of HTC SP schemes for multiphase models with capillarity in elastic media&lt;/p&gt;&#xA;&lt;p&gt;5: Use of High-Performance Computing (HPC) to reduce the computational cost&lt;/p&gt;&#xA;&lt;!-- &#xA;### **Work packages**&#xA;--&gt;</description>
+    </item>
+    <item>
+      <title>dissemination</title>
+      <link>/copernicus/presentations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>laura.del.rio.martin@gmail.com (Laura del Río Martín)</author>
+      <guid>/copernicus/presentations/</guid>
+      <description>&lt;p&gt;Coming soon&lt;/p&gt;&#xA;&lt;!--&#xA;#### **Conferences**   with slides&#xA;&#xA;#### **Invited seminars** with slides&#xA;&#xA;#### **Dissemination activities**&#xA;&#xA;--&gt;</description>
+    </item>
+    <item>
+      <title>publications</title>
+      <link>/copernicus/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>laura.del.rio.martin@gmail.com (Laura del Río Martín)</author>
+      <guid>/copernicus/publications/</guid>
+      <description>&lt;p&gt;Coming soon&lt;/p&gt;&#xA;&lt;!--&#xA;#### **Peer-reviewed International Journals**   &#xA;&#xA;#### **Forthcoming** o preprints&#xA;&#xA;#### **Datasets** aquí o en la sección del software&#xA;&#xA;--&gt;&#xA;&lt;!--2. **L. Río-Martín**, J. Carbajo.&#xA;&#34;Characterization of viscoelastic materials using impact excitations&#34;.&#xA;In preparation.--&gt;</description>
+    </item>
+    <item>
+      <title>software</title>
+      <link>/copernicus/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>laura.del.rio.martin@gmail.com (Laura del Río Martín)</author>
+      <guid>/copernicus/software/</guid>
+      <description>&lt;h3 id=&#34;orphea&#34;&gt;&lt;strong&gt;Orphea&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;!--&#xA;Include description, links to the BIL and also to the repositories &#xA;&#xA;&#xA;&#xA;--&gt;</description>
+    </item>
+  </channel>
+</rss>
